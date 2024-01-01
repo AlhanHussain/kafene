@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kafene/static/css/main.42fcb968.css",
+    "main.js": "/kafene/static/js/main.3c40528a.js",
+    "static/js/787.e5029f74.chunk.js": "/kafene/static/js/787.e5029f74.chunk.js",
+    "index.html": "/kafene/index.html",
+    "main.42fcb968.css.map": "/kafene/static/css/main.42fcb968.css.map",
+    "main.3c40528a.js.map": "/kafene/static/js/main.3c40528a.js.map",
+    "787.e5029f74.chunk.js.map": "/kafene/static/js/787.e5029f74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42fcb968.css",
+    "static/js/main.3c40528a.js"
+  ]
+}
